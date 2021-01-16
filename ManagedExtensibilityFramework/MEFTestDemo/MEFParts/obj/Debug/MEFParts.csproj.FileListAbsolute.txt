@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFParts\bin\Debug\MEFParts.dll
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFParts\bin\Debug\MEFParts.pdb
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFParts\obj\Debug\MEFParts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFParts\obj\Debug\MEFParts.dll
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFParts\obj\Debug\MEFParts.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\bin\Debug\GetNetworkInfo.exe
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\bin\Debug\GetNetworkInfo.pdb
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.exe
+C:\Users\Administrator\Desktop\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.pdb
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\bin\Debug\GetNetworkInfo.exe
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\bin\Debug\GetNetworkInfo.pdb
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.csprojAssemblyReference.cache
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.csproj.CoreCompileInputs.cache
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.exe
+G:\C#练习程序\GetNetworkInfo\GetNetworkInfo\obj\Debug\GetNetworkInfo.pdb

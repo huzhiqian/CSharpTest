@@ -1,0 +1,30 @@
+﻿
+ 异常时间：2019-06-27 16:20:30,775 
+ 线程ID:[1] 
+ 日志级别:ERROR 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：94）
+ 描述信息：ErrorMsg 
+ 异常：
+
+ 异常时间：2019-06-27 16:20:30,775 
+ 线程ID:[1] 
+ 日志级别:ERROR 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：99）
+ 描述信息：ErrorMsg 
+ 异常：System.Exception: ErrorEx
+
+
+ 异常时间：2019-06-27 16:20:46,436 
+ 线程ID:[1] 
+ 日志级别:ERROR 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：94）
+ 描述信息：ErrorMsg 
+ 异常：
+
+ 异常时间：2019-06-27 16:20:46,437 
+ 线程ID:[1] 
+ 日志级别:ERROR 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：99）
+ 描述信息：ErrorMsg 
+ 异常：System.Exception: ErrorEx
+

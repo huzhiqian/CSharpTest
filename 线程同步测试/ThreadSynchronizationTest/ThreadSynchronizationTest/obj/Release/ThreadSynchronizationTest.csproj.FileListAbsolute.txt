@@ -1,0 +1,14 @@
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\ThreadSynchronizationTest.exe.config
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\ThreadSynchronizationTest.exe
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\ThreadSynchronizationTest.pdb
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\CommonModules.dll
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\log4net.dll
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\CommonModules.pdb
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\bin\Release\log4net.xml
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.Form1.resources
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.Properties.Resources.resources
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.csproj.GenerateResource.cache
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.csproj.CoreCompileInputs.cache
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.csproj.CopyComplete
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.exe
+J:\C#练习程序\线程同步测试\ThreadSynchronizationTest\ThreadSynchronizationTest\obj\Release\ThreadSynchronizationTest.pdb

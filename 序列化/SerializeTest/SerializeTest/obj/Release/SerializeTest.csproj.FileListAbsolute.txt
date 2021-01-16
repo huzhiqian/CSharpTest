@@ -1,0 +1,14 @@
+I:\C#练习程序\SerializeTest\SerializeTest\bin\Release\SerializeTest.exe
+I:\C#练习程序\SerializeTest\SerializeTest\bin\Release\SerializeTest.pdb
+I:\C#练习程序\SerializeTest\SerializeTest\bin\Release\halcondotnet.dll
+I:\C#练习程序\SerializeTest\SerializeTest\bin\Release\halcondotnet.xml
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.Form1.resources
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.Properties.Resources.resources
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.SerializeObjInfoCtrl.resources
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.csproj.GenerateResource.cache
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.csproj.CoreCompileInputs.cache
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.csproj.CopyComplete
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.exe
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.pdb
+I:\C#练习程序\SerializeTest\SerializeTest\bin\Release\SerializeTest.exe.config
+I:\C#练习程序\SerializeTest\SerializeTest\obj\Release\SerializeTest.csprojAssemblyReference.cache

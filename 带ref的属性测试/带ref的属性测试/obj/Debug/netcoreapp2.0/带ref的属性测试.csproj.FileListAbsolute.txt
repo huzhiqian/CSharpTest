@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\bin\Debug\netcoreapp2.0\带ref的属性测试.deps.json
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\bin\Debug\netcoreapp2.0\带ref的属性测试.runtimeconfig.json
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\bin\Debug\netcoreapp2.0\带ref的属性测试.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\bin\Debug\netcoreapp2.0\带ref的属性测试.dll
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\bin\Debug\netcoreapp2.0\带ref的属性测试.pdb
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.dll
+C:\Users\Administrator\Desktop\带ref的属性测试\带ref的属性测试\obj\Debug\netcoreapp2.0\带ref的属性测试.pdb

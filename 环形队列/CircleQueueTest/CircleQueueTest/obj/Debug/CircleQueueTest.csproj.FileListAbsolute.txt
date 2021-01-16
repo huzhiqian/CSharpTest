@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\bin\Debug\CircleQueueTest.exe
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\bin\Debug\CircleQueueTest.pdb
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.Form1.resources
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.exe
+C:\Users\Administrator\Desktop\CircleQueueTest\CircleQueueTest\obj\Debug\CircleQueueTest.pdb

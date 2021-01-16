@@ -1,0 +1,22 @@
+﻿
+ 异常时间：2019-06-27 16:20:30,776 
+ 线程ID:[1] 
+ 日志级别:DEBUG 
+ 描述信息：DebugMsg 
+
+ 异常时间：2019-06-27 16:20:30,776 
+ 线程ID:[1] 
+ 日志级别:DEBUG 
+ 描述信息：DebugMsg 
+System.Exception: DebugEx
+
+ 异常时间：2019-06-27 16:20:46,438 
+ 线程ID:[1] 
+ 日志级别:DEBUG 
+ 描述信息：DebugMsg 
+
+ 异常时间：2019-06-27 16:20:46,438 
+ 线程ID:[1] 
+ 日志级别:DEBUG 
+ 描述信息：DebugMsg 
+System.Exception: DebugEx

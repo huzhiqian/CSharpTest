@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.exe
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.pdb
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\bin\Debug\VisionAlgorithm.dll
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\bin\Debug\VisionAlgorithm.pdb
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.exe
+C:\Users\Administrator\Desktop\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.pdb

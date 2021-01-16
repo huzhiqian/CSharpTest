@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\bin\Debug\EventInfoTest2.exe.config
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\bin\Debug\EventInfoTest2.exe
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\bin\Debug\EventInfoTest2.pdb
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.Form1.resources
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.exe
+C:\Users\Administrator\Desktop\EventInfoTest2\EventInfoTest2\obj\Debug\EventInfoTest2.pdb

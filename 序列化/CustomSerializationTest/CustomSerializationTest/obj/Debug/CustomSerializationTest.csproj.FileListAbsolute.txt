@@ -1,0 +1,9 @@
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\bin\Debug\CustomSerializationTest.exe
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\bin\Debug\CustomSerializationTest.pdb
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.csprojAssemblyReference.cache
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.Form1.resources
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.Properties.Resources.resources
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.csproj.GenerateResource.cache
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.csproj.CoreCompileInputs.cache
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.exe
+C:\Users\hzq\Desktop\CustomSerializationTest\CustomSerializationTest\obj\Debug\CustomSerializationTest.pdb

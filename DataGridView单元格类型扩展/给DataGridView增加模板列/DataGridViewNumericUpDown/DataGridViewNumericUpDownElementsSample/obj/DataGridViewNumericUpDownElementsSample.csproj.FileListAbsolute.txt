@@ -1,0 +1,2 @@
+E:\temp\DataGridViewNumericUpDown\DataGridViewNumericUpDownElementsSample\obj\Release\DataGridViewNumericUpDownElementsSample.exe
+E:\temp\DataGridViewNumericUpDown\DataGridViewNumericUpDownElementsSample\obj\Release\DataGridViewNumericUpDownElementsSample.pdb

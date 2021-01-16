@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net_TestProj4", "Log4Net_TestProj4\Log4Net_TestProj4.csproj", "{DAD869A5-6F59-4D53-A314-08CD104B7A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD869A5-6F59-4D53-A314-08CD104B7A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD869A5-6F59-4D53-A314-08CD104B7A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD869A5-6F59-4D53-A314-08CD104B7A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD869A5-6F59-4D53-A314-08CD104B7A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F82E5A9-0148-406D-816C-36DE6435E90B}
+	EndGlobalSection
+EndGlobal

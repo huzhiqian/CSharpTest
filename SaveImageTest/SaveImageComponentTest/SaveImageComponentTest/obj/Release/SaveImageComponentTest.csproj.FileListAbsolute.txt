@@ -1,0 +1,15 @@
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\SaveImageComponentTest.exe.config
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\SaveImageComponentTest.exe
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\SaveImageComponentTest.pdb
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\CommonModules.dll
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\log4net.dll
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\CommonModules.pdb
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\bin\Release\log4net.xml
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.csprojAssemblyReference.cache
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.Form1.resources
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.Properties.Resources.resources
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.csproj.GenerateResource.cache
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.csproj.CoreCompileInputs.cache
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.csproj.CopyComplete
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.exe
+J:\C#练习程序\SaveImageTest\SaveImageComponentTest\SaveImageComponentTest\obj\Release\SaveImageComponentTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\bin\Debug\VisionAlgorithm.dll
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\bin\Debug\VisionAlgorithm.pdb
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\obj\Debug\VisionAlgorithm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\obj\Debug\VisionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\obj\Debug\VisionAlgorithm.dll
+C:\Users\Administrator\Desktop\InterfaceTest\VisionAlgorithm\obj\Debug\VisionAlgorithm.pdb

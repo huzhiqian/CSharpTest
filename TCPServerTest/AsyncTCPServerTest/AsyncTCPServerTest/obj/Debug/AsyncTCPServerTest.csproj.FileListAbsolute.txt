@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.exe.config
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.exe
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.pdb
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\CommonModules.dll
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\CommonModules.pdb
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.Form1.resources
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.exe
+C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.pdb

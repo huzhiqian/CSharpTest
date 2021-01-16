@@ -1,0 +1,6 @@
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\bin\Debug\StatePatternTest.exe
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\bin\Debug\StatePatternTest.pdb
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\obj\Debug\StatePatternTest.csprojAssemblyReference.cache
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\obj\Debug\StatePatternTest.csproj.CoreCompileInputs.cache
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\obj\Debug\StatePatternTest.exe
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest\obj\Debug\StatePatternTest.pdb

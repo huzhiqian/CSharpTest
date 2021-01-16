@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+J:\C#练习程序\行列排序测试\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

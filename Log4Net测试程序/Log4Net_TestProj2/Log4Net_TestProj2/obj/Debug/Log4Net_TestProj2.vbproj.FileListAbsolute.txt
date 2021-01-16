@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\Log4Net_TestProj2.exe.config
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\Log4Net_TestProj2.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\Log4Net_TestProj2.pdb
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\Log4Net_TestProj2.xml
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.Resources.resources
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.xml
+C:\Users\Administrator\Desktop\Log4Net_TestProj2\Log4Net_TestProj2\obj\Debug\Log4Net_TestProj2.pdb

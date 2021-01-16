@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\bin\Debug\Log4Net_TestProj3.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\bin\Debug\Log4Net_TestProj3.pdb
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\obj\Debug\Log4Net_TestProj3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\obj\Debug\Log4Net_TestProj3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\obj\Debug\Log4Net_TestProj3.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\obj\Debug\Log4Net_TestProj3.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\obj\Debug\Log4Net_TestProj3.pdb

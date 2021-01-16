@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\bin\Debug\InterfaceTestDLL.dll
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\bin\Debug\InterfaceTestDLL.pdb
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\obj\Debug\InterfaceTestDLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\obj\Debug\InterfaceTestDLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\obj\Debug\InterfaceTestDLL.dll
+C:\Users\Administrator\Desktop\InterfaceTestDLL\InterfaceTestDLL\obj\Debug\InterfaceTestDLL.pdb

@@ -1,0 +1,11 @@
+﻿
+ 异常时间：2019-06-29 21:02:04,140 
+ 线程ID:[1] 
+ 日志级别:WARN  
+ 描述信息：WarningMsg 
+
+ 异常时间：2019-06-29 21:02:04,141 
+ 线程ID:[1] 
+ 日志级别:WARN  
+ 描述信息：WarningMsg 
+System.Exception: WarningEx

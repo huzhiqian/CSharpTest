@@ -1,0 +1,6 @@
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\bin\Release\CopySpeedTest.exe
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\bin\Release\CopySpeedTest.pdb
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\obj\Release\CopySpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\obj\Release\CopySpeedTest.exe
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\obj\Release\CopySpeedTest.pdb
+C:\Users\hzq\Desktop\CopySpeedTest\CopySpeedTest\obj\Release\CopySpeedTest.csprojAssemblyReference.cache

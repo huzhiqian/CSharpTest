@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\bin\Debug\Delegate_Lambda_Linq.exe.config
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\bin\Debug\Delegate_Lambda_Linq.exe
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\bin\Debug\Delegate_Lambda_Linq.pdb
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\obj\Debug\Delegate_Lambda_Linq.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\obj\Debug\Delegate_Lambda_Linq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\obj\Debug\Delegate_Lambda_Linq.exe
+C:\Users\Administrator\Desktop\Delegate_Lambda_Linq\Delegate_Lambda_Linq\obj\Debug\Delegate_Lambda_Linq.pdb

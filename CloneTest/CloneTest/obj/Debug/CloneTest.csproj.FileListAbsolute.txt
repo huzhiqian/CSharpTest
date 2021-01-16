@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\CloneTest\CloneTest\bin\Debug\CloneTest.exe
+C:\Users\Administrator\Desktop\CloneTest\CloneTest\bin\Debug\CloneTest.pdb
+C:\Users\Administrator\Desktop\CloneTest\CloneTest\obj\Debug\CloneTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CloneTest\CloneTest\obj\Debug\CloneTest.exe
+C:\Users\Administrator\Desktop\CloneTest\CloneTest\obj\Debug\CloneTest.pdb

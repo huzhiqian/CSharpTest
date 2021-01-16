@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\bin\Debug\InterfaceTestDLL.dll
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\bin\Debug\InterfaceTestDLL.pdb
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Administrator\Desktop\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb

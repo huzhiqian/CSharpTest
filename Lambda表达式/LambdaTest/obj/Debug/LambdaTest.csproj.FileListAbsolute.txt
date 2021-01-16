@@ -1,0 +1,7 @@
+I:\C#练习程序\Lambda表达式\LambdaTest\bin\Debug\LambdaTest.exe.config
+I:\C#练习程序\Lambda表达式\LambdaTest\bin\Debug\LambdaTest.exe
+I:\C#练习程序\Lambda表达式\LambdaTest\bin\Debug\LambdaTest.pdb
+I:\C#练习程序\Lambda表达式\LambdaTest\obj\Debug\LambdaTest.csproj.CoreCompileInputs.cache
+I:\C#练习程序\Lambda表达式\LambdaTest\obj\Debug\LambdaTest.exe
+I:\C#练习程序\Lambda表达式\LambdaTest\obj\Debug\LambdaTest.pdb
+I:\C#练习程序\Lambda表达式\LambdaTest\obj\Debug\LambdaTest.csprojAssemblyReference.cache

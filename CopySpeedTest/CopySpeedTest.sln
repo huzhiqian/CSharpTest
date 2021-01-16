@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopySpeedTest", "CopySpeedTest\CopySpeedTest.csproj", "{00998EBB-069F-4511-B416-F0C13A6BE4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00998EBB-069F-4511-B416-F0C13A6BE4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00998EBB-069F-4511-B416-F0C13A6BE4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00998EBB-069F-4511-B416-F0C13A6BE4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00998EBB-069F-4511-B416-F0C13A6BE4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865C60D8-5716-4AD5-B164-03A45F1035BF}
+	EndGlobalSection
+EndGlobal

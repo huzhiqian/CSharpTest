@@ -1,0 +1,9 @@
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\bin\Debug\StatePatternTest2.exe
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\bin\Debug\StatePatternTest2.pdb
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.csprojAssemblyReference.cache
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.Form1.resources
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.Properties.Resources.resources
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.csproj.GenerateResource.cache
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.csproj.CoreCompileInputs.cache
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.exe
+J:\C#练习程序\软件设计模式\行为模式\StatePatternTest\StatePatternTest2\obj\Debug\StatePatternTest2.pdb

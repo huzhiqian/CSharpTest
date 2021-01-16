@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\bin\Debug\MEFTestParts.exe
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\bin\Debug\MEFTestParts.pdb
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\obj\Debug\MEFTestParts.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\obj\Debug\MEFTestParts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\obj\Debug\MEFTestParts.exe
+C:\Users\Administrator\Desktop\MEFTestDemo\MEFTestParts\obj\Debug\MEFTestParts.pdb

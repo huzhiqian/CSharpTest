@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\obj\Debug\TaskRunCountControlTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\obj\Debug\TaskRunCountControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\bin\Debug\TaskRunCountControlTest.exe.config
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\bin\Debug\TaskRunCountControlTest.exe
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\bin\Debug\TaskRunCountControlTest.pdb
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\obj\Debug\TaskRunCountControlTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\obj\Debug\TaskRunCountControlTest.exe
+C:\Users\Administrator\Desktop\TaskRunCountControlTest\TaskRunCountControlTest\obj\Debug\TaskRunCountControlTest.pdb

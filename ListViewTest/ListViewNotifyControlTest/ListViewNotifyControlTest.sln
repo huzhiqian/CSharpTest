@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewNotifyControlTest", "ListViewNotifyControlTest\ListViewNotifyControlTest.csproj", "{D8AEA1C0-B748-425E-A7AC-1DC13D6FD4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8AEA1C0-B748-425E-A7AC-1DC13D6FD4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AEA1C0-B748-425E-A7AC-1DC13D6FD4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AEA1C0-B748-425E-A7AC-1DC13D6FD4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AEA1C0-B748-425E-A7AC-1DC13D6FD4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23473C67-FD62-40CE-9F89-569AB005E62B}
+	EndGlobalSection
+EndGlobal

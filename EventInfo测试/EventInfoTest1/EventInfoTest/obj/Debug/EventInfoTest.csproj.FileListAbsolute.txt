@@ -1,0 +1,10 @@
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\bin\Debug\EventInfoTest.exe.config
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\bin\Debug\EventInfoTest.exe
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\bin\Debug\EventInfoTest.pdb
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.csprojAssemblyReference.cache
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.Form1.resources
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.Properties.Resources.resources
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.csproj.GenerateResource.cache
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.csproj.CoreCompileInputs.cache
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.exe
+J:\C#练习程序\EventInfo测试\EventInfoTest1\EventInfoTest\obj\Debug\EventInfoTest.pdb

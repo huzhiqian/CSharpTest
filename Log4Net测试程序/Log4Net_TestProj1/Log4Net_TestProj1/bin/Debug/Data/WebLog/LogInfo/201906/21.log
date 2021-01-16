@@ -1,0 +1,11 @@
+
+日志时间：2019-06-21 21:18:40,849 [1] 
+日志级别：INFO  
+消息描述：loginfo [(null)] 
+Error:123 
+ 
+日志时间：2019-06-21 21:24:21,858 [1] 
+日志级别：INFO  
+消息描述：loginfo [(null)] 
+Error:123 
+ System.Exception: error

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\bin\Debug\RefectionGetPropertiesTest.exe
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\bin\Debug\RefectionGetPropertiesTest.pdb
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\obj\Debug\RefectionGetPropertiesTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\obj\Debug\RefectionGetPropertiesTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\obj\Debug\RefectionGetPropertiesTest.exe
+C:\Users\Administrator\Desktop\RefectionGetPropertiesTest\RefectionGetPropertiesTest\obj\Debug\RefectionGetPropertiesTest.pdb

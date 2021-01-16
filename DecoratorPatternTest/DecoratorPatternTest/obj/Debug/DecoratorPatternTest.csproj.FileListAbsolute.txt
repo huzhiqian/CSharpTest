@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\bin\Debug\DecoratorPatternTest.exe
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\bin\Debug\DecoratorPatternTest.pdb
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\obj\Debug\DecoratorPatternTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\obj\Debug\DecoratorPatternTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\obj\Debug\DecoratorPatternTest.exe
+C:\Users\Administrator\Desktop\DecoratorPatternTest\DecoratorPatternTest\obj\Debug\DecoratorPatternTest.pdb

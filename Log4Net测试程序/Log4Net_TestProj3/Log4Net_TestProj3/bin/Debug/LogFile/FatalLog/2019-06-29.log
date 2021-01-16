@@ -1,0 +1,15 @@
+﻿
+ 异常时间：2019-06-29 21:02:04,068 
+ 线程ID:[1] 
+ 日志级别:FATAL 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：80）
+ 描述信息：FatalMsg 
+ 异常：
+
+ 异常时间：2019-06-29 21:02:04,133 
+ 线程ID:[1] 
+ 日志级别:FATAL 
+ 异常位置：线程[1] （文件：C:\Users\Administrator\Desktop\Log4Net_TestProj3\Log4Net_TestProj3\LogHelper.cs 行：85）
+ 描述信息：FatalMsg 
+ 异常：System.Exception: FatalEx
+

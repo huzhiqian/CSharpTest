@@ -1,0 +1,11 @@
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\bin\Debug\DataBindingTest.exe
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\bin\Debug\DataBindingTest.pdb
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.csprojAssemblyReference.cache
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.Form1.resources
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.PeopleInfoControl.resources
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.Properties.Resources.resources
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.csproj.GenerateResource.cache
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.csproj.CoreCompileInputs.cache
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.exe
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.pdb
+J:\C#练习程序\控件数据绑定测试\DataBindingTest\DataBindingTest\obj\Debug\DataBindingTest.SettingsForm.resources

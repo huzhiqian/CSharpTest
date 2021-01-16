@@ -1,0 +1,22 @@
+﻿
+ 异常时间：2019-06-27 16:20:30,777 
+ 线程ID:[1] 
+ 日志级别:INFO  
+ 描述信息：InfoMsg 
+
+ 异常时间：2019-06-27 16:20:30,777 
+ 线程ID:[1] 
+ 日志级别:INFO  
+ 描述信息：InfoMsg 
+System.Exception: InfoEx
+
+ 异常时间：2019-06-27 16:20:46,438 
+ 线程ID:[1] 
+ 日志级别:INFO  
+ 描述信息：InfoMsg 
+
+ 异常时间：2019-06-27 16:20:46,439 
+ 线程ID:[1] 
+ 日志级别:INFO  
+ 描述信息：InfoMsg 
+System.Exception: InfoEx

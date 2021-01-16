@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\bin\Debug\SimpleMEFDemo.exe
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\bin\Debug\SimpleMEFDemo.pdb
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.exe
+C:\Users\Administrator\Desktop\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.pdb
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\bin\Debug\SimpleMEFDemo.exe
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\bin\Debug\SimpleMEFDemo.pdb
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.csprojAssemblyReference.cache
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.csproj.CoreCompileInputs.cache
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.exe
+G:\C#练习程序\ManagedExtensibilityFramework\简单MEF测试\SimpleMEFDemo\SimpleMEFDemo\obj\Debug\SimpleMEFDemo.pdb

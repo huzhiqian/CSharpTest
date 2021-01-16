@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\bin\Debug\RoundButton.dll
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\bin\Debug\RoundButton.pdb
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.dll
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.pdb
+C:\Users\Administrator\Desktop\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.csprojAssemblyReference.cache
+J:\C#练习程序\RoundButtonTestProj\RoundButton\bin\Debug\RoundButton.dll
+J:\C#练习程序\RoundButtonTestProj\RoundButton\bin\Debug\RoundButton.pdb
+J:\C#练习程序\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.csprojAssemblyReference.cache
+J:\C#练习程序\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.csproj.CoreCompileInputs.cache
+J:\C#练习程序\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.dll
+J:\C#练习程序\RoundButtonTestProj\RoundButton\obj\Debug\RoundButton.pdb

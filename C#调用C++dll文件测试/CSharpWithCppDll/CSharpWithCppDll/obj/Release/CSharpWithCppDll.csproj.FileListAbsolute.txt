@@ -1,0 +1,6 @@
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\bin\Release\CSharpWithCppDll.exe
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\bin\Release\CSharpWithCppDll.pdb
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\obj\Release\CSharpWithCppDll.csprojAssemblyReference.cache
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\obj\Release\CSharpWithCppDll.csproj.CoreCompileInputs.cache
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\obj\Release\CSharpWithCppDll.exe
+c:\users\hzq\Desktop\CSharpWithCppDll\CSharpWithCppDll\obj\Release\CSharpWithCppDll.pdb

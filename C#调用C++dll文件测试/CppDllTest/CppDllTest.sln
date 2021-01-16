@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppDllTest", "CppDllTest\CppDllTest.vcxproj", "{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Debug|x64.ActiveCfg = Debug|x64
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Debug|x64.Build.0 = Debug|x64
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Debug|x86.ActiveCfg = Debug|Win32
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Debug|x86.Build.0 = Debug|Win32
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Release|x64.ActiveCfg = Release|x64
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Release|x64.Build.0 = Release|x64
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Release|x86.ActiveCfg = Release|Win32
+		{93BE2CF2-4033-4DCF-BC07-12D05E7CF16A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEC6119-CD27-4556-BEAA-061260B178E8}
+	EndGlobalSection
+EndGlobal

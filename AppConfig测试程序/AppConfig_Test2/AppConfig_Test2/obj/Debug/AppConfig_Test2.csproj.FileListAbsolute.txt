@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.exe.config
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.exe
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.pdb
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.exe
+C:\Users\Administrator\Desktop\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.pdb
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.exe.config
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.exe
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\bin\Debug\AppConfig_Test2.pdb
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.csprojAssemblyReference.cache
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.csproj.CoreCompileInputs.cache
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.exe
+G:\C#练习程序\AppConfig测试程序\AppConfig_Test2\AppConfig_Test2\obj\Debug\AppConfig_Test2.pdb

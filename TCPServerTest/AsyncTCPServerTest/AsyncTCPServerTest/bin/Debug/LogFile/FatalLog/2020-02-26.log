@@ -1,0 +1,66 @@
+﻿
+ 异常时间：2020-02-26 13:20:54,532 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonModules.TCP.AsyncTCPClient..ctor(TcpClient client, Encoding encoding) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPClient.cs:行号 130
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 258
+
+
+ 异常时间：2020-02-26 13:23:45,171 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonModules.TCP.AsyncTCPClient..ctor(TcpClient client, Encoding encoding) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPClient.cs:行号 130
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 258
+
+
+ 异常时间：2020-02-26 13:24:59,395 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonModules.TCP.AsyncTCPClient..ctor(TcpClient client, Encoding encoding) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPClient.cs:行号 131
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 258
+
+
+ 异常时间：2020-02-26 13:27:05,834 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.InvalidOperationException: 只能为每个异步操作调用一次 EndAccept。
+   在 System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   在 System.Net.Sockets.TcpListener.EndAcceptTcpClient(IAsyncResult asyncResult)
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 257
+
+
+ 异常时间：2020-02-26 13:29:59,541 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CommonModules.TCP.AsyncTCPClient..ctor(TcpClient client, Encoding encoding) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPClient.cs:行号 131
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 258
+
+
+ 异常时间：2020-02-26 13:32:18,291 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：接受客户端接入时发生致命性错误 
+ 异常：System.InvalidOperationException: 线程间操作无效: 从不是创建控件“listBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ListBox.NativeAdd(Object item)
+   在 System.Windows.Forms.ListBox.ObjectCollection.AddInternal(Object item)
+   在 System.Windows.Forms.ListBox.ObjectCollection.Add(Object item)
+   在 AsyncTCPServerTest.Form1.ClientConnect(Object sender, TcpClientConnectedEventArgs e) 位置 C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\Form1.cs:行号 29
+   在 CommonModules.TCP.AsyncTCPServer.OnClienConnect(AsyncTCPClient client) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 334
+   在 CommonModules.TCP.AsyncTCPServer.AsyncAcceptCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 264
+

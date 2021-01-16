@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\GetAssemblyFromClassTest.exe
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\GetAssemblyFromClassTest.pdb
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\TestDll.dll
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\TestDll.pdb
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\obj\Debug\GetAssemblyFromClassTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\obj\Debug\GetAssemblyFromClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\obj\Debug\GetAssemblyFromClassTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\obj\Debug\GetAssemblyFromClassTest.exe
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\obj\Debug\GetAssemblyFromClassTest.pdb
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\TestDllInterface.dll
+C:\Users\Administrator\Desktop\GetAssemblyFromClassTest\GetAssemblyFromClassTest\bin\Debug\TestDllInterface.pdb

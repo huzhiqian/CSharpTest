@@ -1,0 +1,14 @@
+C:\Users\Hzq\Desktop\类测试\类测试\bin\Debug\类测试.exe.config
+C:\Users\Hzq\Desktop\类测试\类测试\bin\Debug\类测试.exe
+C:\Users\Hzq\Desktop\类测试\类测试\bin\Debug\类测试.pdb
+C:\Users\Hzq\Desktop\类测试\类测试\obj\Debug\类测试.csprojResolveAssemblyReference.cache
+C:\Users\Hzq\Desktop\类测试\类测试\obj\Debug\类测试.csproj.CoreCompileInputs.cache
+C:\Users\Hzq\Desktop\类测试\类测试\obj\Debug\类测试.exe
+C:\Users\Hzq\Desktop\类测试\类测试\obj\Debug\类测试.pdb
+H:\C#练习程序\类测试\类测试\bin\Debug\类测试.exe.config
+H:\C#练习程序\类测试\类测试\bin\Debug\类测试.exe
+H:\C#练习程序\类测试\类测试\bin\Debug\类测试.pdb
+H:\C#练习程序\类测试\类测试\obj\Debug\类测试.csprojResolveAssemblyReference.cache
+H:\C#练习程序\类测试\类测试\obj\Debug\类测试.csproj.CoreCompileInputs.cache
+H:\C#练习程序\类测试\类测试\obj\Debug\类测试.exe
+H:\C#练习程序\类测试\类测试\obj\Debug\类测试.pdb

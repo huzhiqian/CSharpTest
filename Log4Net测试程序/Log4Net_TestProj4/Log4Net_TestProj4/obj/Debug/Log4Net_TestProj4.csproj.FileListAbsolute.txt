@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\bin\Debug\Log4Net_TestProj4.exe.config
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\bin\Debug\Log4Net_TestProj4.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\bin\Debug\Log4Net_TestProj4.pdb
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\obj\Debug\Log4Net_TestProj4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\obj\Debug\Log4Net_TestProj4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\obj\Debug\Log4Net_TestProj4.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\obj\Debug\Log4Net_TestProj4.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj4\Log4Net_TestProj4\obj\Debug\Log4Net_TestProj4.pdb

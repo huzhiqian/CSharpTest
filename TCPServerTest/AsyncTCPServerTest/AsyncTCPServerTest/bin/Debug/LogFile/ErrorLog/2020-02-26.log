@@ -1,0 +1,13 @@
+﻿
+ 异常时间：2020-02-26 13:46:43,507 
+ 线程ID:[4] 
+ 日志级别:ERROR 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：110）
+ 描述信息：接收客户端 127.0.0.1:3000 数据出错 
+ 异常：System.IO.IOException: 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   在 CommonModules.TCP.AsyncTCPServer.BeginReceiveCallBack(IAsyncResult ar) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\TCP\AsyncTCPServer.cs:行号 293
+

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.exe.config
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.pdb
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.exe
+C:\Users\Administrator\Desktop\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.pdb
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.exe.config
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.exe
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\Log4Net_TestProj1.pdb
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.csprojAssemblyReference.cache
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.csproj.CoreCompileInputs.cache
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.exe
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.pdb
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\bin\Debug\log4net.dll
+I:\C#练习程序\Log4Net测试程序\Log4Net_TestProj1\Log4Net_TestProj1\obj\Debug\Log4Net_TestProj1.csproj.CopyComplete

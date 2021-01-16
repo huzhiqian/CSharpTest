@@ -1,0 +1,1666 @@
+﻿
+ 异常时间：2020-02-19 21:21:03,199 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:03,364 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:03,542 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:03,691 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:03,831 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:03,978 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:04,138 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:04,306 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:04,514 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:04,686 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:04,849 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,013 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,150 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,336 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,518 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,664 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,793 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:05,924 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,071 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,237 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,394 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,553 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,699 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:06,861 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,029 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,188 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,369 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,624 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,788 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:07,961 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,151 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,303 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,449 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,595 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,752 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:08,936 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:09,113 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:09,363 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:09,525 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:09,685 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:09,872 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,022 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,165 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,306 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,472 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,682 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,827 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:10,996 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,146 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,382 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,591 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,707 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,828 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:11,976 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,098 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,245 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,405 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,524 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,656 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,786 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:12,920 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,056 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,181 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,336 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,474 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,580 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,698 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,813 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:13,948 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,084 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,213 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,342 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,476 
+ 线程ID:[6] 
+ 日志级别:FATAL 
+ 异常位置：线程[6] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,600 
+ 线程ID:[7] 
+ 日志级别:FATAL 
+ 异常位置：线程[7] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:21:14,706 
+ 线程ID:[9] 
+ 日志级别:FATAL 
+ 异常位置：线程[9] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,269 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,387 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,525 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,659 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,782 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:26,911 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,035 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,159 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,308 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,457 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,599 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,712 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,818 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:27,936 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,050 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,190 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,319 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,436 
+ 线程ID:[5] 
+ 日志级别:FATAL 
+ 异常位置：线程[5] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,567 
+ 线程ID:[4] 
+ 日志级别:FATAL 
+ 异常位置：线程[4] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,692 
+ 线程ID:[6] 
+ 日志级别:FATAL 
+ 异常位置：线程[6] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:25:28,816 
+ 线程ID:[7] 
+ 日志级别:FATAL 
+ 异常位置：线程[7] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:26:02,923 
+ 线程ID:[1] 
+ 日志级别:FATAL 
+ 异常位置：线程[1] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+
+
+ 异常时间：2020-02-19 21:26:23,008 
+ 线程ID:[1] 
+ 日志级别:FATAL 
+ 异常位置：线程[1] （文件：I:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：99）
+ 描述信息：读取配置文件出错！ 
+ 异常：System.InvalidOperationException: XML 文档(0, 0)中有错误。 ---> System.Xml.XmlException: 缺少根元素。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlTextReader.Read()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read3_ArrayOfConfigItem()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 CommonModules.Configer.ConfigItemManager.LoadConfigsFromXMLFile(String path) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 166
+   在 CommonModules.Configer.ConfigItemManager..ctor(String filePath) 位置 I:\软件框架及常用模块\CommonModules\CommonModules\Configer\ConfigItemManager.cs:行号 48
+

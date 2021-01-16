@@ -1,0 +1,8 @@
+bin\Debug\CustomDataGridView.exe
+bin\Debug\CustomDataGridView.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomDataGridView.Properties.Resources.resources
+obj\Debug\CustomDataGridView.csproj.GenerateResource.Cache
+obj\Debug\CustomDataGridView.exe
+obj\Debug\CustomDataGridView.pdb
+obj\Debug\CustomDataGridView.Form1.resources

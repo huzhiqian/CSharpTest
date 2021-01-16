@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFTestDemo", "MEFTestDemo\MEFTestDemo.csproj", "{744BA46B-AC56-4BD6-998D-1CE11D3E2B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFParts", "MEFParts\MEFParts.csproj", "{FC6A10B3-09BE-4B04-8330-44DFA53CF68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744BA46B-AC56-4BD6-998D-1CE11D3E2B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744BA46B-AC56-4BD6-998D-1CE11D3E2B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744BA46B-AC56-4BD6-998D-1CE11D3E2B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744BA46B-AC56-4BD6-998D-1CE11D3E2B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A10B3-09BE-4B04-8330-44DFA53CF68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A10B3-09BE-4B04-8330-44DFA53CF68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A10B3-09BE-4B04-8330-44DFA53CF68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A10B3-09BE-4B04-8330-44DFA53CF68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F2BFDC-E0B8-4DF6-BB1F-FF188B9034E5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DataGridViewNumericUpDownElements.dll
+bin\Debug\DataGridViewNumericUpDownElements.pdb
+obj\Debug\DataGridViewNumericUpDownElements.dll
+obj\Debug\DataGridViewNumericUpDownElements.pdb
+bin\Release\DataGridViewNumericUpDownElements.dll
+bin\Release\DataGridViewNumericUpDownElements.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DataGridViewNumericUpDownElements.dll
+obj\Release\DataGridViewNumericUpDownElements.pdb

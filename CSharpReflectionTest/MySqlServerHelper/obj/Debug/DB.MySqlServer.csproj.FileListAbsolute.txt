@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\bin\Debug\MySqlServerHelper.dll
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\bin\Debug\MySqlServerHelper.pdb
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\bin\Debug\DB.Interface.dll
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\bin\Debug\DB.Interface.pdb
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\obj\Debug\DB.MySqlServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\obj\Debug\DB.MySqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\obj\Debug\DB.MySqlServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\obj\Debug\MySqlServerHelper.dll
+C:\Users\Administrator\Desktop\CSharpReflectionTest\MySqlServerHelper\obj\Debug\MySqlServerHelper.pdb

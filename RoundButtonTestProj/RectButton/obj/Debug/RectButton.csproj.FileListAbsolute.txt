@@ -1,0 +1,6 @@
+J:\C#练习程序\RoundButtonTestProj\RectButton\bin\Debug\RectButton.dll
+J:\C#练习程序\RoundButtonTestProj\RectButton\bin\Debug\RectButton.pdb
+J:\C#练习程序\RoundButtonTestProj\RectButton\obj\Debug\RectButton.csprojAssemblyReference.cache
+J:\C#练习程序\RoundButtonTestProj\RectButton\obj\Debug\RectButton.csproj.CoreCompileInputs.cache
+J:\C#练习程序\RoundButtonTestProj\RectButton\obj\Debug\RectButton.dll
+J:\C#练习程序\RoundButtonTestProj\RectButton\obj\Debug\RectButton.pdb

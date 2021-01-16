@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\bin\Debug\XMLFileOperatorTest.exe
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\bin\Debug\XMLFileOperatorTest.pdb
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.Form1.resources
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.exe
+C:\Users\Administrator\Desktop\XMLFileOperatorTest\XMLFileOperatorTest\obj\Debug\XMLFileOperatorTest.pdb

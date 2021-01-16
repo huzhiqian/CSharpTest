@@ -1,0 +1,448 @@
+﻿
+ 异常时间：2020-06-05 11:03:54,797 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:03:54,831 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:03:54,846 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:03:54,861 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:38,191 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:38,219 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:38,233 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:50,353 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:50,386 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:50,419 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:58,267 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:58,283 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:04:58,298 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:05:58,358 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:05:58,383 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:06:45,298 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:06:45,316 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:05,337 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:05,357 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:25,371 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:25,383 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:45,402 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:07:45,423 
+ 线程ID:[8] 
+ 日志级别:ERROR 
+ 异常位置：线程[8] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:10:48,843 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:10:48,862 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:11:06,573 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:11:06,585 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:11:28,587 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:11:28,604 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:13:07,487 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:13:07,506 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:13:41,111 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:13:41,132 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:14:01,471 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:14:01,487 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:14:01,501 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:14:01,514 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:16:06,193 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:16:06,211 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:16:06,216 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:16:06,221 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:17:16,950 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:17:16,971 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:17:16,976 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:17:16,981 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:09,468 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:09,489 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:23,262 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:23,274 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:23,288 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:23,311 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:32,387 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:32,425 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:32,474 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:32,494 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:44,808 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:44,859 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:44,890 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:21:44,913 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:22:00,717 
+ 线程ID:[6] 
+ 日志级别:ERROR 
+ 异常位置：线程[6] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机2超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:23:58,337 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机1超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:23:58,360 
+ 线程ID:[7] 
+ 日志级别:ERROR 
+ 异常位置：线程[7] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机3超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:24:06,986 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
+
+ 异常时间：2020-06-05 11:24:25,989 
+ 线程ID:[3] 
+ 日志级别:ERROR 
+ 异常位置：线程[3] （文件：J:\软件框架及常用模块\CommonModules\CommonModules\LogHelper\LogHelper.cs 行：45）
+ 描述信息：相机4超时。 
+ 异常：
