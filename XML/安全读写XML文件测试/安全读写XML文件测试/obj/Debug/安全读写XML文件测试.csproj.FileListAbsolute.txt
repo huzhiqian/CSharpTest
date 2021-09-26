@@ -1,0 +1,14 @@
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\安全读写XML文件测试.exe
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\安全读写XML文件测试.pdb
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\CommonModules.dll
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\log4net.dll
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\CommonModules.pdb
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\bin\Debug\CommonModules.dll.config
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.csproj.AssemblyReference.cache
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.Form1.resources
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.Properties.Resources.resources
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.csproj.GenerateResource.cache
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.csproj.CoreCompileInputs.cache
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.csproj.CopyComplete
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.exe
+C:\Users\hzq02\Desktop\安全读写XML文件测试\安全读写XML文件测试\obj\Debug\安全读写XML文件测试.pdb

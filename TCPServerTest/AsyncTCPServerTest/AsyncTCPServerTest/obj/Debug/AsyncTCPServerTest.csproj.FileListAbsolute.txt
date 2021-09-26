@@ -13,3 +13,16 @@ C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\A
 C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.CopyComplete
 C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.exe
 C:\Users\Administrator\Desktop\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.pdb
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.exe.config
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.exe
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\AsyncTCPServerTest.pdb
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\CommonModules.pdb
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\bin\Debug\log4net.xml
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.AssemblyReference.cache
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.Form1.resources
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.Properties.Resources.resources
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.GenerateResource.cache
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.CoreCompileInputs.cache
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.csproj.CopyComplete
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.exe
+F:\C#测试程序\TCPServerTest\AsyncTCPServerTest\AsyncTCPServerTest\obj\Debug\AsyncTCPServerTest.pdb

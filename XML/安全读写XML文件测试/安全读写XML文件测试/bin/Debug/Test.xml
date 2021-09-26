@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Product>
+  <ProductInfo Name="CQFN" ID="666666" CreateTime="2021-09-02 13:47:02">
+    <Algorithm>
+      <UpAlgorithm>
+        <NormalAlgorithm ModificationTime="2021-09-02 13:47:02">
+          <Path>Product\Products\CQFN\Algorithm\UpAlgorithm.vpp</Path>
+        </NormalAlgorithm>
+        <Parameters>
+          <PropertyItem name="NormalAlgorithmEN" value="True">启用通用算法</PropertyItem>
+          <PropertyItem name="AIAlgorithmEN" value="False">启用深度学习算法</PropertyItem>
+          <PropertyItem name="DefaultResult" value="False">默认结果</PropertyItem>
+          <PropertyItem name="AlgorithmTimeout" value="1000">算法超时时间</PropertyItem>
+          <PropertyItem name="DisplayImageType" value="Normal">图像显示类型</PropertyItem>
+          <PropertyItem name="AlgorithmTimeOut" value="1" />
+        </Parameters>
+        <ParametersPathNode>/Product/ProductInfo/Algorithm/UpAlgorithm/Parameters</ParametersPathNode>
+      </UpAlgorithm>
+      <BelowAlgorithm>
+        <NormalAlgorithm ModificationTime="2021-09-02 13:47:02">
+          <Path>Product\Products\CQFN\Algorithm\BelowAlgorithm.vpp</Path>
+        </NormalAlgorithm>
+        <Parameters>
+          <PropertyItem name="NormalAlgorithmEN" value="True">启用通用算法</PropertyItem>
+          <PropertyItem name="AIAlgorithmEN" value="False">启用深度学习算法</PropertyItem>
+          <PropertyItem name="DefaultResult" value="False">默认结果</PropertyItem>
+          <PropertyItem name="AlgorithmTimeout" value="1000">算法超时时间</PropertyItem>
+          <PropertyItem name="DisplayImageType" value="Normal">图像显示类型</PropertyItem>
+          <PropertyItem name="AlgorithmTimeOut" value="1" />
+        </Parameters>
+        <ParametersPathNode>/Product/ProductInfo/Algorithm/BelowAlgorithm/Parameters</ParametersPathNode>
+      </BelowAlgorithm>
+      <SurfaceAlgorithm>
+        <NormalAlgorithm ModificationTime="2021-09-02 13:47:02">
+          <Path>Product\Products\CQFN\Algorithm\SurfaceAlgorithm.vpp</Path>
+        </NormalAlgorithm>
+        <Parameters>
+          <PropertyItem name="NormalAlgorithmEN" value="True">启用通用算法</PropertyItem>
+          <PropertyItem name="AIAlgorithmEN" value="False">启用深度学习算法</PropertyItem>
+          <PropertyItem name="DefaultResult" value="False">默认结果</PropertyItem>
+          <PropertyItem name="AlgorithmTimeout" value="1000">算法超时时间</PropertyItem>
+          <PropertyItem name="DisplayImageType" value="Normal">图像显示类型</PropertyItem>
+          <PropertyItem name="AlgorithmTimeOut" value="1" />
+        </Parameters>
+        <ParametersPathNode>/Product/ProductInfo/Algorithm/SurfaceAlgorithm/Parameters</ParametersPathNode>
+      </SurfaceAlgorithm>
+      <AIAlgorithm ModificationTime="2021-09-02 13:47:02">
+        <Path>Product\Products\CQFN\Algorithm\</Path>
+        <Parameters>
+          <PropertyItem name="MaxAllowArea" value="100" />
+          <PropertyItem name="MaxAllowWidth" value="100" />
+          <PropertyItem name="MaxAllowHeight" value="100" />
+        </Parameters>
+        <ParametersPathNode>/Product/ProductInfo/Algorithm/AIAlgorithm/Parameters</ParametersPathNode>
+      </AIAlgorithm>
+      <InkAlgorithm>Product\Products\CQFN\Algorithm\InkAlgorithm.vpp</InkAlgorithm>
+    </Algorithm>
+    <TrayTable Rows="6" Cols="6">
+      <FilePath>Product\Products\CQFN\TrayTable\TrayTableObj.tab</FilePath>
+    </TrayTable>
+    <Parameters>
+      <PropertyItem name="ProductHeight" value="4">产品高度</PropertyItem>
+      <PropertyItem name="ProductWidth" value="4">产品宽度</PropertyItem>
+      <PropertyItem name="CamExpAOIUp" value="1">AOI检上测相机曝光值</PropertyItem>
+      <PropertyItem name="CamExpAOIBelow" value="15">AOI检下测相机曝光值</PropertyItem>
+      <PropertyItem name="CamExpInk" value="5">点墨定位相机曝光值</PropertyItem>
+      <PropertyItem name="LensUp" value="10000">上相机镜头脉冲位置</PropertyItem>
+      <PropertyItem name="LensBelow" value="4999">下相机镜头脉冲位置</PropertyItem>
+      <PropertyItem name="CalibrationDataChanged" value="False">标定数据改变</PropertyItem>
+      <PropertyItem name="SurfaceHeightDifferent" value="0.55">表面距离底部高度差</PropertyItem>
+    </Parameters>
+  </ProductInfo>
+</Product>

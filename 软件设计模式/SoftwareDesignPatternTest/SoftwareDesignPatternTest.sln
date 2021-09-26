@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareDesignPatternTest", "SoftwareDesignPatternTest.csproj", "{ECC2431B-C179-44CC-BBE4-9D2BDC09026F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "创建型模式", "创建型模式", "{0B452AF5-E98B-49C2-8C3E-9471F12508AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "结构型模式", "结构型模式", "{2CE91809-0DD8-44AF-99AF-C75CC24A69B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "行为型模式", "行为型模式", "{A25CCCD7-38B2-4D9E-B2D6-86ED9AEFC47A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "J2EE模式", "J2EE模式", "{79CB0E55-AE3E-4692-AFCB-60657F8BEF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "..\FactoryPattern\FactoryPattern.csproj", "{819385B2-879C-42EE-A9B7-900109907F8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +19,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ECC2431B-C179-44CC-BBE4-9D2BDC09026F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECC2431B-C179-44CC-BBE4-9D2BDC09026F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECC2431B-C179-44CC-BBE4-9D2BDC09026F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECC2431B-C179-44CC-BBE4-9D2BDC09026F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819385B2-879C-42EE-A9B7-900109907F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819385B2-879C-42EE-A9B7-900109907F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819385B2-879C-42EE-A9B7-900109907F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819385B2-879C-42EE-A9B7-900109907F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{819385B2-879C-42EE-A9B7-900109907F8B} = {0B452AF5-E98B-49C2-8C3E-9471F12508AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B1F8141-9D01-4768-A6F9-04E6411BE517}
